@@ -1,0 +1,32 @@
+.homeHeader{
+
+    color: white;
+    border-bottom: 1px solid #f7f7f7;
+}
+
+#brand{
+    font-weight: 800;
+   margin-left: 100px;
+    color: #fff;
+}
+#brand:hover{
+    text-decoration: none !important;
+    text-decoration-line: none ;
+    text-underline: none !important;
+}
+
+#formBox{
+    padding: 20px;
+    text-align: right;
+    right: 20px;
+}
+
+#ul{
+    font-size: small;
+    font-weight: bold;
+    font-family: "Poppins";
+}
+#ul li{
+    margin-left: 10px;
+    margin-right: 10px;
+}
